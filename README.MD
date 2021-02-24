@@ -24,5 +24,5 @@ or
 "curl -H "Content-Type: application/json" -d {} http://localhost:8090/actuator/refresh"
 based on choice from Step 2)
 
-Step 6) Refresh page from Step 2) in browser.
-Message should now be updated.
+Step 6) Refresh tthe page from Step 2) in the browser.
+The message should now be updated.
