@@ -10,7 +10,7 @@ Step 2) Start spring client application with one of the follwing VM arguments:
 
 Step 3) Open brower at http://localhost:8080 or  http://localhost:8090 based on previous choice
 
-Step 4)Edit coresponding .yml file based on choice at Step 2) from:
+Step 4) Edit coresponding .yml file based on choice at Step 2) from:
 
  spring-boot-config-server\src\main\resources\config\simple-service:
 
@@ -24,5 +24,5 @@ or
 "curl -H "Content-Type: application/json" -d {} http://localhost:8090/actuator/refresh"
 based on choice from Step 2)
 
-Step 5) Refresh page from Step 2) in browser.
+Step 6) Refresh page from Step 2) in browser.
 Message should now be updated.
