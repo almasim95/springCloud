@@ -26,3 +26,7 @@ based on choice from Step 2)
 
 Step 6) Refresh the page from Step 2) in the browser.
 The message should now be updated.
+
+Please check the following articles:
+https://stackoverflow.com/questions/49364866/spring-boot-config-client-refresh-not-working
+https://soshace.com/spring-cloud-config-refresh-strategies/
