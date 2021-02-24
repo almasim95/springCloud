@@ -8,7 +8,7 @@ Step 2) Start the spring client application with one of the follwing VM argument
 1) -Dspring.profiles.active=dev -Dserver.port=8080
 2) -Dspring.profiles.active=prod -Dserver.port=8090
 
-Step 3) Open brower at http://localhost:8080 or  http://localhost:8090 based on previous choice
+Step 3) Open the brower at http://localhost:8080 or  http://localhost:8090 based on previous choice
 
 Step 4) Edit the coresponding .yml file based on choice at Step 2) from:
 
