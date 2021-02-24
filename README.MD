@@ -1,3 +1,6 @@
+This is a simple project that demonstrates the communication between spring-cloud server 
+with local configuration and spring-cloud client. 
+
 Step 1) Start spring cloud server application
 
 Step 2) Start spring client application with one of the follwing VM arguments:
